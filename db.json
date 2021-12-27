@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "May 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Job Interview",
+      "day": "Dec 21st at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Watch SpiderMan No Way Home",
+      "day": "Dec 22nd at 7:30pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Spend time with my Mother",
+      "day": "Dec 25th at 3:00pm",
+      "reminder": true
+    }
+  ]
+}

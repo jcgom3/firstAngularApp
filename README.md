@@ -1,5 +1,15 @@
 # AngularCrashCourse
 
+# For user to see this project they need to download the repository and run it locally.
+
+## This is my first angular project.
+
+- A task app where you can add and remove task, you can also toggle tasks if needed. When doubled click, you can set a reminder to the specific task that was clicked.
+
+- It has a UI service in which you will see the add form once you click "Add". When you click "Close" the form will hide.
+
+- This app uses subscriptions, observables and services.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
